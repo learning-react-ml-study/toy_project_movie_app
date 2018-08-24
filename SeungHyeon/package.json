@@ -7,7 +7,9 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-lines-ellipsis": "^0.7.3",
-    "react-scripts": "1.0.13"
+    "react-scripts": "1.0.13",
+    "styled-components": "^3.4.5",
+    "yarn-upgrade-all": "^0.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
